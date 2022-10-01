@@ -1,0 +1,12 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+.idea
+*.txt
+!requirements.txt
+*.json
+*.db
+*.jpg
+**/__pycache__
+/yolov5
+*.pickaim
